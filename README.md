@@ -10,7 +10,7 @@ The tool has 2 parameters, on the one hand the **'-a'** parameter to specify the
 
 However, the tool has a help panel after execution, and with the option **'-h'** this pannel can also be displayed:
 ```bash
-┌─[root@parrot]─[/home/s4vitar/Desktop/Directo]
+┌─[root@parrot]─[/home/eur1p3des/WPwn]
 └──╼ #./WPwn.sh 
 [*] Using: ./WPwn.sh
         a) Attack mode

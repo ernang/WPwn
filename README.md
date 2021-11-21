@@ -1,5 +1,5 @@
 
-![](./wpwn-removebackground.png)
+![](./wpwn-removebg.png)
 # WPwn
 Ideal tool to automate WiFi attacks (WPA/WPA2 - PSK) aimed at obtaining the password.
 

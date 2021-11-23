@@ -15,7 +15,7 @@
 <p>However, the tool has a help panel after execution, and with the option <strong>'-h'</strong> this pannel can also be displayed:</p>
 
 <pre><code class="bash language-bash">
-root @ thc in /home/eur1p3des/Wifi_Cracker on git:main o [12:42:45] 
+root @ thc in /home/eur1p3des/WPwn on git:main o [12:42:45] 
 $ ./wpwn.sh              
 
 █     █░ ██▓███   █     █░███▄    █
